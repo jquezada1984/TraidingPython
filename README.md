@@ -1,0 +1,2 @@
+# TraidingPython
+Traiding en Python
